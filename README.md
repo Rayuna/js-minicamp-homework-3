@@ -3,16 +3,17 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Objects
-	* Properties
-	* Methods
-	* for in loop
-	* dot notation vs bracket notation
+
+* Objects - a type of class that can be a combination or variables, functions and data structures. (apart of OOP-Object Oriented Programming)
+* Properties - characteristic of an object
+* Methods - Behavior of the objects and properties
+* for in loop - a control flow statement that repeats until the task is completed.
+* dot notation vs bracket notation - dot notation is use when property names are available. Bracket notation is used in a for loop to loop through properties on an object.
+
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* git status
 	* git add --all
 	* git status
